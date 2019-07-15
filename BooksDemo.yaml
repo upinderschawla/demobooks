@@ -7,8 +7,8 @@ info:
   license:
     name: SIMS License
     url: 'http://slb.com'
-host: 'evd.apigateway.slb.com'
-basePath: /book-service-api
+host: 'monitoring.sims.slb.com'
+basePath: /api/demo
 tags:
   - name: book-controller
     description: Book Controller
